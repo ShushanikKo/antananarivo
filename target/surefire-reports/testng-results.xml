@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-17T03:31:47 AMT" name="Suite" finished-at="2020-06-17T03:31:47 AMT" duration-ms="32">
+    <groups>
+    </groups>
+    <test started-at="2020-06-17T03:31:47 AMT" name="Test" finished-at="2020-06-17T03:31:47 AMT" duration-ms="32">
+      <class name="qataskproject.Maintask.TestTest">
+        <test-method signature="mainTest()[pri:0, instance:qataskproject.Maintask.TestTest@4f51b3e0]" started-at="2020-06-17T03:31:47 AMT" name="mainTest" finished-at="2020-06-17T03:31:47 AMT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainTest -->
+      </class> <!-- qataskproject.Maintask.TestTest -->
+      <class name="qataskproject.Maintask.TestTest2">
+        <test-method signature="mainTest2()[pri:0, instance:qataskproject.Maintask.TestTest2@4b9e255]" started-at="2020-06-17T03:31:47 AMT" name="mainTest2" finished-at="2020-06-17T03:31:47 AMT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainTest2 -->
+      </class> <!-- qataskproject.Maintask.TestTest2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
