@@ -3,8 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="qataskproject.Maintask.TestTest"/>
-      <class name="qataskproject.Maintask.TestTest2"/>
+      <class name="qataskproject.Maintask.MainTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

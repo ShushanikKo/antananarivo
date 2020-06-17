@@ -1,1 +1,8 @@
-C:\Users\shush\secondary-projects\Maintask\src\main\java\qataskproject\Maintask\App.java
+C:\Users\shush\secondary-projects\Maintask\src\main\java\pages\BasePage.java
+C:\Users\shush\secondary-projects\Maintask\src\main\java\enums\MobileDevices.java
+C:\Users\shush\secondary-projects\Maintask\src\main\java\helpers\ConfigFileReader.java
+C:\Users\shush\secondary-projects\Maintask\src\main\java\exceptions\ElementNotFoundException.java
+C:\Users\shush\secondary-projects\Maintask\src\main\java\annotations\Failing.java
+C:\Users\shush\secondary-projects\Maintask\src\main\java\pages\GeneralPage.java
+C:\Users\shush\secondary-projects\Maintask\src\main\java\utilities\Driver.java
+C:\Users\shush\secondary-projects\Maintask\src\main\java\enums\Browser.java
